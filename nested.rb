@@ -57,7 +57,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-  programmatically[:dennis_ritchie][:languages]
+  programmatically[:dennis_ritchie][:languages][0]
 
 end
 
